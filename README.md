@@ -14,7 +14,9 @@
 <img width="702" alt="image" src="https://github.com/user-attachments/assets/674dad85-c4f0-4294-b08e-cfeafce8725d" 
 <br/>
 <p>DesktopApp Main Game:</p> 
+Level 1:
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/5a11baa3-90ff-4eb9-aada-4948c23c844c" />
+Level 2:
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/e5fcaa21-1d01-4510-8dab-86bb195c4b7e" />
 <br/>
 <p>Class Diagram:</p>
