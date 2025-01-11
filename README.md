@@ -6,9 +6,9 @@
 <br/>
 <li><b>Dynamic Levels:</b> Each level is filled with destructible blocks and challenging enemies.</li>
 <br/>
-<li><b>Power-Ups:</b> Enhance your gameplay with speed boosts, increased bomb capacity, and extended explosion range.</li>
+<li><b>Power-Ups:</b> Enhance the gameplay with speed boosts, increased bomb capacity, and extended explosion range.</li>
 <br/>
-<li><b>Survival Mechanics:</b> Avoid enemy contact and stay clear of your own bomb explosions to progress in the game.</li>
+<li><b>Survival Mechanics:</b> Avoid enemy contact and stay clear of own bomb explosions to progress in the game.</li>
 <br/>
 <li><b>Intuitive Controls:</b> Simple key bindings make it easy for players to move, place bombs, and navigate the levels.</li>
 <br/>
