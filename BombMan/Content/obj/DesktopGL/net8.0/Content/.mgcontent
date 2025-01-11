@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/Bombs/ExplosionSound.wav</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/CharacterSounds/Ouch.wav</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/Credits.mp3</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/GameOverSound.wav</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/HighScoresBgm.mp3</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/Map1.mp3</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/Map2.mp3</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/Menus/menuBackgroundMusic.mp3</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Audio/PauseSound.wav</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Fonts/DefaultFont.spritefont</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/About.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Backgrounds/Background.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Backgrounds/BomberManPoster.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Backgrounds/StageBackgroundLvl1.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Backgrounds/StageBackgroundLvl2.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Backgrounds/StageBackgroundLvl3.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Blocks/Block1.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Blocks/Block2.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Blocks/Block3.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Characters/Enemies/EnemyLvl1.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Characters/Enemies/EnemyLvl2.PNG</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Characters/Enemies/EnemyLvl3.jpg</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Characters/Heroes.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Controller/BackBtnActive.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Controller/BackBtnDefault.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Controller/ControllerImg_Active.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Controller/ControllerImg_Default.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Floors/Floor.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/HeartIcon.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Help.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Items/Bomb.png</File>
+    <File>C:/Workspace/Sem 3/PROG2370 Game Programming with Data Structures/Assignment/Final Project/Group1_Ridoy_Chan_FinalProject/BombMan/BombMan/Content/Images/Items/Explosion.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

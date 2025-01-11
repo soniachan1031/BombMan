@@ -1,0 +1,5 @@
+C:\Users\Sonia Chan\iCloudDrive\Group1_Ridoy_Chan_FinalProject\BombMan\BombManDesktopApp\obj\Release\net6.0-windows7.0\BombManDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonia Chan\iCloudDrive\Group1_Ridoy_Chan_FinalProject\BombMan\BombManDesktopApp\obj\Release\net6.0-windows7.0\BombManDesktopApp.AssemblyInfoInputs.cache
+C:\Users\Sonia Chan\iCloudDrive\Group1_Ridoy_Chan_FinalProject\BombMan\BombManDesktopApp\obj\Release\net6.0-windows7.0\BombManDesktopApp.AssemblyInfo.cs
+C:\Users\Sonia Chan\iCloudDrive\Group1_Ridoy_Chan_FinalProject\BombMan\BombManDesktopApp\obj\Release\net6.0-windows7.0\BombManDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Sonia Chan\iCloudDrive\Group1_Ridoy_Chan_FinalProject\BombMan\BombManDesktopApp\obj\Release\net6.0-windows7.0\BombManDesktopApp.sourcelink.json

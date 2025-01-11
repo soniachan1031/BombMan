@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\bombermanposter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\bombermanposter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\characters\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\characters\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\characters\\enemies\\enemylvl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\characters\\enemies\\enemylvl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\characters\\enemies\\enemylvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\characters\\enemies\\enemylvl2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\characters\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\characters\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\items\\lifeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\items\\lifeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\objects\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\objects\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\objects\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\objects\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\gamebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\gamebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\staticobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\staticobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\highscoremenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\highscoremenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\helpmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\gameovermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\basemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\basemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\aboutmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\aboutmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\menus\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\menus\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\basecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\basecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\core\\io\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\core\\io\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\core\\io\\controllerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\core\\io\\controllerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\core\\io\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\core\\io\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\core\\platforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\core\\platforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\bombman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\bombman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3784E0-E00F-499A-8273-8CD39E19A334}|BombManAndroid\\BombManAndroid.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombmanandroid\\activitybombmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3784E0-E00F-499A-8273-8CD39E19A334}|BombManAndroid\\BombManAndroid.csproj|solutionrelative:bombmanandroid\\activitybombmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\stagebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\stagebackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.saveload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.saveload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.eventhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.eventhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\worlds\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\worlds\\gameworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\final project\\group1_ridoy_chan_finalproject\\bombman\\bombman\\source\\components\\gameplay\\items\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EFC19-1E28-47C5-BDBA-DE448AFE18CA}|BombMan\\BombMan.csproj|solutionrelative:bombman\\source\\components\\gameplay\\items\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BomberManPoster.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\BomberManPoster.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\BomberManPoster.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\BomberManPoster.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\BomberManPoster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:56:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Objects\\Block.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Objects\\Block.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Objects\\Block.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Objects\\Block.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:50:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Objects\\Floor.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Objects\\Floor.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Objects\\Floor.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Objects\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:50:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LifeItem.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Items\\LifeItem.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Items\\LifeItem.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Items\\LifeItem.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Items\\LifeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:50:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Heroes\\Hero.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Characters\\Heroes\\Hero.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Heroes\\Hero.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Characters\\Heroes\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:45:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyLvl2.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl2.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl2.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl2.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl2.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwD8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:42:07.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyLvl1.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl1.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl1.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl1.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\EnemyLvl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:41:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\Enemy.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Characters\\Enemies\\Enemy.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:39:17.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameBackground.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GameBackground.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\GameBackground.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GameBackground.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\GameBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:57:06.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GameObject.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\GameObject.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GameObject.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:57:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamePlayManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GamePlayManager.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\GamePlayManager.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\GamePlayManager.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\GamePlayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:59:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\HUD.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\HUD.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\HUD.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:00:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Levels.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Levels.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Levels.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Levels.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Levels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:01:28.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaticObject.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\StaticObject.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\StaticObject.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\StaticObject.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\StaticObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:01:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MenuManager.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\MenuManager.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MenuManager.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:09:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MenuItem.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\MenuItem.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MenuItem.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:08:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:08:29.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HighScoreMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\HighScoreMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\HighScoreMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\HighScoreMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\HighScoreMenu.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:07:20.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HelpMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\HelpMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\HelpMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\HelpMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\HelpMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:05:56.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameOverMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\GameOverMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\GameOverMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\GameOverMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\GameOverMenu.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:03:16.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\BaseMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\BaseMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\BaseMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\BaseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:02:34.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\AboutMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\AboutMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\AboutMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\AboutMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:01:45.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\Menus\\PauseMenu.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\Menus\\PauseMenu.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\Menus\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:10:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseComponent.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\BaseComponent.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\BaseComponent.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\BaseComponent.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\BaseComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:10:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\InputManager.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Core\\IO\\InputManager.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\InputManager.cs",
+              "RelativeToolTip": "BombMan\\Source\\Core\\IO\\InputManager.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:13:19.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ControllerButton.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\ControllerButton.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Core\\IO\\ControllerButton.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\ControllerButton.cs",
+              "RelativeToolTip": "BombMan\\Source\\Core\\IO\\ControllerButton.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:12:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\Controller.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Core\\IO\\Controller.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\IO\\Controller.cs",
+              "RelativeToolTip": "BombMan\\Source\\Core\\IO\\Controller.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv0EAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:10:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\GameManager.cs",
+              "RelativeToolTip": "BombMan\\Source\\Core\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:13:54.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Platforms.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\Platforms.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Core\\Platforms.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Core\\Platforms.cs",
+              "RelativeToolTip": "BombMan\\Source\\Core\\Platforms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:14:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BombMan.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\BombMan.cs",
+              "RelativeDocumentMoniker": "BombMan\\BombMan.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\BombMan.cs",
+              "RelativeToolTip": "BombMan\\BombMan.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:16:23.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActivityBombManGame.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombManAndroid\\ActivityBombManGame.cs",
+              "RelativeDocumentMoniker": "BombManAndroid\\ActivityBombManGame.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombManAndroid\\ActivityBombManGame.cs",
+              "RelativeToolTip": "BombManAndroid\\ActivityBombManGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:39:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StageBackground.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\StageBackground.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\StageBackground.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\StageBackground.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\StageBackground.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:01:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameWorld.Utility.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Utility.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Utility.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Utility.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Utility.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:53:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameWorld.Update.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Update.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Update.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Update.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Update.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:53:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameWorld.SaveLoad.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.SaveLoad.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.SaveLoad.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.SaveLoad.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.SaveLoad.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwIUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:52:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GameWorld.Initialization.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Initialization.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Initialization.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Initialization.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Initialization.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:52:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GameWorld.EventHandling.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.EventHandling.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.EventHandling.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.EventHandling.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.EventHandling.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:52:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GameWorld.Drawing.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Drawing.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Drawing.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Drawing.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.Drawing.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:52:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GameWorld.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Worlds\\GameWorld.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:50:49.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Items\\Bomb.cs",
+              "RelativeDocumentMoniker": "BombMan\\Source\\Components\\GamePlay\\Items\\Bomb.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Final Project\\Group1_Ridoy_Chan_FinalProject\\BombMan\\BombMan\\Source\\Components\\GamePlay\\Items\\Bomb.cs",
+              "RelativeToolTip": "BombMan\\Source\\Components\\GamePlay\\Items\\Bomb.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:47:40.21Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1005,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
