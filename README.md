@@ -15,7 +15,7 @@
 <br/>
 <p>DesktopApp Main Game:</p> 
 <p>Level 1:</p>
-<img width="705" alt="image" src="https://github.com/user-attachments/assets/5a11baa3-90ff-4eb9-aada-4948c23c844c" />
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/d88a11a6-9926-4620-a577-6f68fcc9abff"/>
 <p>Level 2:</p>
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/e5fcaa21-1d01-4510-8dab-86bb195c4b7e" />
 <br/>
