@@ -2,7 +2,7 @@
 <p>This is our first mini game built in C# MonoGame. </p>
 
 <p><b>Key Features:</b></p>
-
+<li><b>Strategic Bomb Placement:</b> Bombs explode in a cross pattern after a short delay, requiring players to plan their moves carefully.</li>
 
 <p><b>Screenshots:</b></p>
 <p>Class Diagram:</p>
