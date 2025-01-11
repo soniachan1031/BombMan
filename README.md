@@ -22,5 +22,5 @@
 
 
 <p><b>Contributor:</b></p>
-<p>Ridoy Mubarak Hussain</p>
-<p>Chan Shong</p>
+<li>Ridoy Mubarak Hussain</li>
+<li>Chan Shong</li>
