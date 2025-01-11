@@ -1,3 +1,2 @@
-<p><b></b>First BombMan Mono Game!</b></p>
-This is our first mini game built in C# MonoGame. 
-
+<p><b>First BombMan Mono Game!</b></p>
+<p>This is our first mini game built in C# MonoGame. </p>
