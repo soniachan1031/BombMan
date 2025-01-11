@@ -21,6 +21,6 @@
 <p>Class Diagram:</p>
 
 
-<p>Contributor:</p>
+<p><b>Contributor:</b></p>
 <p>Ridoy Mubarak Hussain</p>
 <p>Chan Shong</p>
