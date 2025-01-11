@@ -10,17 +10,16 @@
 <br/>
 
 <p><b>Screenshots:</b></p>
-<p>Class Diagram:</p>
-<img width="702" alt="image" src="https://github.com/user-attachments/assets/0634a835-3b70-4aca-92a3-d9eafae6f1e6">
-
 <p>DesktopApp Menu:</p> 
 <img width="702" alt="image" src="https://github.com/user-attachments/assets/674dad85-c4f0-4294-b08e-cfeafce8725d" 
 <br/>
 <p>DesktopApp Main Game:</p> 
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/5a11baa3-90ff-4eb9-aada-4948c23c844c" />
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/e5fcaa21-1d01-4510-8dab-86bb195c4b7e" />
-
-
+<br/>
+<p>Class Diagram:</p>
+<img width="702" alt="image" src="https://github.com/user-attachments/assets/0634a835-3b70-4aca-92a3-d9eafae6f1e6">
+<br/>
 
 <p><b>Contributor:</b></p>
 <li>Ridoy Mubarak Hussain</li>
