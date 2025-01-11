@@ -4,20 +4,14 @@
 <p><b>Key Features:</b></p>
 <li><b>Strategic Bomb Placement:</b> Bombs explode in a cross pattern after a short delay, requiring players to plan their moves carefully.</li>
 <br/>
-<li><b>Strategic Bomb Placement:</b> Bombs explode in a cross pattern after a short delay, requiring players to plan their moves carefully.</li>
-
-<p>Class Diagram:</p>
-
-
-<p>Class Diagram:</p>
-
-
-<p>Class Diagram:</p>
-
-
-
-<p>Class Diagram:</p>
-
+<li><b>Dynamic Levels:</b> Each level is filled with destructible blocks and challenging enemies.</li>
+<br/>
+<li><b>Power-Ups:</b> Enhance your gameplay with speed boosts, increased bomb capacity, and extended explosion range.</li>
+<br/>
+<li><b>Survival Mechanics:</b> Avoid enemy contact and stay clear of your own bomb explosions to progress in the game.</li>
+<br/>
+<li><b>Intuitive Controls:</b> Simple key bindings make it easy for players to move, place bombs, and navigate the levels.</li>
+<br/>
 
 <p><b>Screenshots:</b></p>
 <p>Class Diagram:</p>
