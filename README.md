@@ -19,7 +19,7 @@
 <p>Level 2:</p>
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/e5fcaa21-1d01-4510-8dab-86bb195c4b7e" />
 <br/>
-<p>Android Menu:</p> 
+<p>Android Main Game:</p> 
 <img width="685" alt="image" src="https://github.com/user-attachments/assets/eef2be40-447b-472e-97e9-bc03d81cf493" />
 <br/>
 <p>Class Diagram:</p>
