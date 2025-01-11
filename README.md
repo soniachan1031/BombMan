@@ -6,5 +6,5 @@
 
 <p><b>Screenshots:</b></p>
 <p>Class Diagram:</p>
-![BombMan Game Class Diagram](https://github.com/user-attachments/assets/47057965-9b1d-4aa2-b3c6-c168472d7eae)
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/47057965-9b1d-4aa2-b3c6-c168472d7ea" />
 
