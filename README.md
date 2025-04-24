@@ -41,7 +41,8 @@ Welcome to **BombMan** – our first mini-game built using **C# with MonoGame**,
 ## 🧱 Class Diagram
 
 We applied object-oriented design to structure game logic, UI, assets, and more:
-![Class Diagram]<img width="702" alt="image" src="https://github.com/user-attachments/assets/0634a835-3b70-4aca-92a3-d9eafae6f1e6">
+<p>Class Diagram</p>
+<img width="702" alt="image" src="https://github.com/user-attachments/assets/0634a835-3b70-4aca-92a3-d9eafae6f1e6">
 
 ---
 
